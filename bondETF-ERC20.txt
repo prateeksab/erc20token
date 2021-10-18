@@ -1,0 +1,7 @@
+Bond ETF using ERC20 token
+
+Create a smart contract that has the following capabilities - 
+1. Accepts Pre-approved list of bonds
+2. Allows user to deposit any quantity of bonds at a price determined by oracles like chainlink
+3. Gives user a proportional share of ETF
+4. Allows ETF Shares to be encashed in proportional constituents (Current price*quantity weighted % in the portfolio)
